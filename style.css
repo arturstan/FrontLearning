@@ -1,0 +1,12 @@
+body {
+    background-color: #fefefe;
+}
+
+h2 {
+    color: #1460AA;
+}
+
+.headerImportant {
+	background-color: gray;
+	color: red;
+}
