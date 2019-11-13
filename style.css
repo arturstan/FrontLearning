@@ -6,7 +6,22 @@ h2 {
     color: #1460AA;
 }
 
-.headerImportant {
+.why__header {
 	background-color: gray;
 	color: red;
+}
+
+.main{
+	width: 100%;
+	max-width: 700px;
+	margin: auto;
+}
+
+.why__paragraph{
+	/* padding-left: 16px; */
+	padding: 5px 0px 5px 16px;
+}
+
+.paragraph{
+	padding: 5px 0px 5px 16px;		
 }
